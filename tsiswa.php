@@ -7,8 +7,8 @@
 
 
 <?php
-//komentar di local
-//****************
+
+//fix comentar setelah merge
 
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
